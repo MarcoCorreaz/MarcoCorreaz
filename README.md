@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+Marco+Corrêa;Desenvolvedor+Back-End+em+Formação;Focado+em+Java,+Spring+Boot+e+SQL&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=FF0000&color2=DC143C&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+Marco+Corrêa;Desenvolvedor+Back-End+Júnior;Focado+em+Java,+Spring+Boot+e+IA&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=FF0000&color2=DC143C&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,13 +12,14 @@
 
 ## 💫 Sobre Mim
 
-Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos e eficientes.
+Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, eficientes e automatizados.
 
-- 🔭 Atualmente **estagiando com Dados e BI na Seplag** e desenvolvendo **projetos pessoais** (construindo um bot de promoções automatizado em Python!).
-- 🌱 Focado no momento em dominar **Java e SQL** para Back-End.
+- 🔭 Atualmente desenvolvendo o **Rotina Inteligente**, um sistema com Back-End em **Java** e integração nativa com Inteligência Artificial.
+- ⚙️ Construindo bots e fluxos de automação com **n8n** para o projeto **ROUME** (plataforma de gestão de manutenções imobiliárias).
+- 🌱 Focado em consolidar minha atuação como **Desenvolvedor Back-End Júnior**, dominando **Java, Spring Boot e SQL**.
+- 🏢 Atuando também como estagiário na Seplag.
 - 💡 Tenho bagagem acadêmica e prática com **Python, Node.js, TypeScript, JavaScript e HTML**.
-- 🎯 Meu objetivo principal é **conseguir minha primeira oportunidade como Desenvolvedor Back-End Júnior**.
-- 💬 Pergunte-me sobre **Java, banco de dados relacional, lógica de programação ou até sobre dashboards e ETL!**
+- 💬 Pergunte-me sobre **Java, banco de dados relacional, integrações com IA, lógicas de automação e back-end!**
 
 <p align="center">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%;"/>
