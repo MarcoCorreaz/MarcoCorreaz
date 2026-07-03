@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+Marco+Corrêa;Desenvolvedor+Back-End;Focado+em+Java,+Spring+Boot+e+IA&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=FF0000&color2=DC143C&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+o+Marco+Corrêa;Desenvolvedor+Back-End;Focado+em+Java,+Spring+Boot+e+IA&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=FF0000&color2=DC143C&vCenter=true&size=24" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,12 +14,33 @@
 
 Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, eficientes e automatizados.
 
-- 🔭 Atualmente desenvolvendo o **Rotina Inteligente**, um sistema com Back-End em **Java** e integração nativa com Inteligência Artificial.
-- ⚙️ Construindo bots e fluxos de automação com **n8n** para o projeto **ROUME** (plataforma de gestão de manutenções imobiliárias).
+- 🔭 Atualmente desenvolvendo o **Rotina Inteligente**, um sistema com Back-End em **Java + Spring Boot** e integração nativa com Inteligência Artificial.
+- ⚙️ Construindo bots e fluxos de automação com **n8n** para o **ROUme**, plataforma que automatiza a triagem de manutenções imobiliárias via WhatsApp com IA.
+- 🏢 Estagiário na **Seplag-MT** (Secretaria de Estado de Planejamento e Gestão), atuando com dados e Business Intelligence.
 - 🌱 Focado em consolidar minha atuação como **Desenvolvedor Back-End Júnior**, dominando **Java, Spring Boot e SQL**.
-- 🏢 Atuando também como estagiário na Seplag.
-- 💡 Tenho bagagem acadêmica e prática com **Python, Node.js, TypeScript, JavaScript e HTML**.
+- 💡 Tenho bagagem acadêmica e prática com **Python, Node.js, TypeScript, JavaScript, HTML e Docker**.
 - 💬 Pergunte-me sobre **Java, banco de dados relacional, integrações com IA, lógicas de automação e back-end!**
+
+<p align="center">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%;"/>
+</p>
+
+## 🚀 Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏠 ROUme</h3>
+      <p>SaaS PropTech que automatiza a triagem de manutenções imobiliárias via WhatsApp usando IA.</p>
+      <a href="LINK_DO_REPO_ROUME_AQUI">🔗 Ver repositório</a>
+    </td>
+    <td width="50%">
+      <h3>📅 Rotina Inteligente</h3>
+      <p>Organizador de rotina com IA voltado para estudantes-trabalhadores. Java 21 + Spring Boot + React + PostgreSQL.</p>
+      <a href="LINK_DO_REPO_ROTINA_AQUI">🔗 Ver repositório</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%;"/>
@@ -29,7 +50,9 @@ Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, 
 
 <p align="left">
   <img src="./icons/java-original-wordmark.svg" alt="Java" width="45" height="45" style="margin-right: 10px;" />
+  <img src="./icons/Spring-Light.svg" alt="Spring Boot" width="45" height="45" style="margin-right: 10px;" />
   <img src="./icons/postgresql-original.svg" alt="PostgreSQL" width="45" height="45" style="margin-right: 10px;" />
+  <img src="./icons/Docker.svg" alt="Docker" width="45" height="45" style="margin-right: 10px;" />
   <img src="./icons/python-original.svg" alt="Python" width="45" height="45" style="margin-right: 10px;" />
   <img src="./icons/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45" style="margin-right: 10px;" />
   <img src="./icons/typescript-original.svg" alt="TypeScript" width="45" height="45" style="margin-right: 10px;" />
@@ -44,17 +67,17 @@ Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, 
 ## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarcoCorrea-CD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoCorrea-CD&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarcoCorreaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=MarcoCorreaz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCorrea-CD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoCorrea-CD&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCorreaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoCorreaz&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=MarcoCorrea-CD&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCorreaz&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -68,6 +91,6 @@ Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, 
     <img src="./icons/linkedin-original.svg" alt="LinkedIn" width="50" height="50" style="margin-right: 15px;">
   </a>
   <a href="mailto:contato.marcocorrea@gmail.com">
-    <img src="./icons/images.png" alt="Email" width="50" height="50">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 15px;">
   </a>
 </p>
