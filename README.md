@@ -1,5 +1,6 @@
+<h1 align="center">Olá! Eu sou o Marco Corrêa 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá!+Eu+sou+o+Marco+Corrêa;Desenvolvedor+Back-End;Focado+em+Java,+Spring+Boot+e+IA&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=FF0000&color2=DC143C&vCenter=true&size=24" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Back-End;Focado+em+Java,+Spring+Boot+e+IA&font=Fira+Code&center=true&width=600&height=40&duration=3000&pause=1000&color=FF0000&color2=DC143C&vCenter=true&size=18" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +16,7 @@
 Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, eficientes e automatizados.
 
 - 🔭 Atualmente desenvolvendo o **Rotina Inteligente**, um sistema com Back-End em **Java + Spring Boot** e integração nativa com Inteligência Artificial.
-- ⚙️ Construindo bots e fluxos de automação com **n8n** para o **ROUme**, plataforma que automatiza a triagem de manutenções imobiliárias via WhatsApp com IA.
+- ⚙️ Construindo bots e fluxos de automação com **n8n** para o **ROUME**, plataforma que automatiza a triagem de manutenções imobiliárias via WhatsApp com IA.
 - 🏢 Estagiário na **Seplag-MT** (Secretaria de Estado de Planejamento e Gestão), atuando com dados e Business Intelligence.
 - 🌱 Focado em consolidar minha atuação como **Desenvolvedor Back-End Júnior**, dominando **Java, Spring Boot e SQL**.
 - 💡 Tenho bagagem acadêmica e prática com **Python, Node.js, TypeScript, JavaScript, HTML e Docker**.
@@ -30,7 +31,7 @@ Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, 
 <table>
   <tr>
     <td width="50%">
-      <h3>🏠 ROUme</h3>
+      <h3>🏠 ROUME</h3>
       <p>SaaS PropTech que automatiza a triagem de manutenções imobiliárias via WhatsApp usando IA.</p>
       <a href="LINK_DO_REPO_ROUME_AQUI">🔗 Ver repositório</a>
     </td>
@@ -67,18 +68,14 @@ Sou um desenvolvedor em constante evolução, buscando criar sistemas robustos, 
 ## 📊 Estatísticas e Atividade
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarcoCorreaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=MarcoCorreaz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=MarcoCorreaz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCorreaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoCorreaz&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoCorreaz&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoCorreaz&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+> 💡 Meus repositórios fixados aparecem logo abaixo do cabeçalho do perfil (seção nativa do GitHub — configure em *Customize your pins*), mostrando os projetos em destaque de forma sempre estável.
 
 <p align="center">
   <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%;"/>
