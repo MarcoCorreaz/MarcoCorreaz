@@ -31,13 +31,13 @@
       <h3>🏠 ROUME</h3>
       <p><strong>SaaS PropTech</strong> que elimina a triagem manual de chamados de manutenção imobiliária, automatizando o atendimento via WhatsApp com IA.</p>
       <p><code>n8n</code> · <code>WhatsApp API</code> · <code>IA</code></p>
-      <a href="LINK_DO_REPO_ROUME_AQUI">🔗 Ver repositório</a>
+      <a href="https://github.com/MarcoCorreaz/Roume">🔗 Ver repositório</a>
     </td>
     <td width="33%" valign="top">
       <h3>📅 Rotina Inteligente</h3>
       <p>Organizador de rotina com IA que ajuda estudantes-trabalhadores a planejar o dia sem fricção, com sugestões automáticas via Gemini.</p>
       <p><code>Java 21</code> · <code>Spring Boot</code> · <code>React</code> · <code>PostgreSQL</code></p>
-      <a href="LINK_DO_REPO_ROTINA_AQUI">🔗 Ver repositório</a>
+      <a href="https://github.com/MarcoCorreaz/Rotina-Inteligente">🔗 Ver repositório</a>
     </td>
     <td width="33%" valign="top">
       <h3>📚 BookReads</h3>
