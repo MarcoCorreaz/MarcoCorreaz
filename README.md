@@ -34,10 +34,10 @@
       <a href="https://github.com/MarcoCorreaz/Roume">🔗 Ver repositório</a>
     </td>
     <td width="33%" valign="top">
-      <h3>📅 Rotina Inteligente</h3>
+      <h3>📅 Diurno</h3>
       <p>Organizador de rotina com IA que ajuda estudantes-trabalhadores a planejar o dia sem fricção, com sugestões automáticas via Gemini.</p>
       <p><code>Java 21</code> · <code>Spring Boot</code> · <code>React</code> · <code>PostgreSQL</code></p>
-      <a href="https://github.com/MarcoCorreaz/Rotina-Inteligente">🔗 Ver repositório</a>
+      <a href="[https://github.com/MarcoCorreaz/Diurno]">🔗 Ver repositório</a>
     </td>
     <td width="33%" valign="top">
       <h3>📚 BookReads</h3>
