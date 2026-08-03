@@ -2,7 +2,7 @@
  
 Desenvolvedor back-end (Java/Spring Boot), estudante de ADS na Faculdade Invest com formatura prevista para dezembro de 2026. Atualmente estagiando como BI na Seplag-MT, mantendo dashboards em Power BI para apoiar decisões da gestão pública.
  
-Estou buscando uma vaga júnior de back-end (CLT). Se quiser trocar uma ideia: [LinkedIn](https://www.linkedin.com/in/marcoantoniolc/) · [contato.marcocorrea@gmail.com](mailto:contato.marcocorrea@gmail.com)
+Estou buscando uma vaga júnior de back-end. Se quiser trocar uma ideia: [LinkedIn](https://www.linkedin.com/in/marcoantoniolc/) · [contato.marcocorrea@gmail.com](mailto:contato.marcocorrea@gmail.com)
  
 ## Projetos
  
