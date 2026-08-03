@@ -5,7 +5,7 @@
 
 <p align="center">
   Estudante de ADS (formatura dez/2026) e estagiário de BI na <strong>Seplag-MT</strong>, construindo back-ends em <strong>Java/Spring Boot</strong> e automações com IA.<br/>
-  🟢 Aberto a oportunidades júnior back-end (CLT) — <a href="https://www.linkedin.com/in/marcoantoniolc/">fale comigo no LinkedIn</a>
+  🟢 Aberto a oportunidades júnior back-end — <a href="https://www.linkedin.com/in/marcoantoniolc/">fale comigo no LinkedIn</a>
 </p>
 
 <p align="center">
