@@ -23,53 +23,81 @@
 
 ### 🛠️ Stack
 
+<div align="center">
+
 **Back-end**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img alt="Java" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Java.svg" title="Java">
+<img alt="Spring Boot" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Spring%20Boot.svg" title="Spring Boot">
+<img alt="PostgreSQL" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Postgresql.svg" title="PostgreSQL">
+<img alt="Python" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Python.svg" title="Python">
 
 **Front-end**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img alt="TypeScript" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Typescript.svg" title="TypeScript">
+<img alt="React" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/React.svg" title="React">
+<img alt="Next.js" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/NextJS.svg" title="Next.js">
+<img alt="Vite" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Vite.svg" title="Vite">
+<img alt="TailwindCSS" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/TailwindCSS.svg" title="TailwindCSS">
 
 **Automação, dados e infra**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img alt="Docker" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Docker.svg" title="Docker">
+<img alt="Git" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/GIT.svg" title="Git">
+<img alt="Firebase" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Firebase.svg" title="Firebase">
+<img alt="Power BI" height="48" width="48" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Power%20BI.svg" title="Power BI">
+
+</div>
 
 ---
 
 ### 📌 Projetos em destaque
 
-**[BookReads](https://github.com/MarcoCorreaz/bookreads)** · [demo](https://bookreads-gilt.vercel.app)
-Rede social de leitura mobile-first, unindo o formato de check-in do BeReal com a lógica de acompanhamento de leitura do Goodreads. Front-end em Next.js, Supabase para auth/banco/storage/realtime, e um serviço à parte em Spring Boot que faz proxy da API do Google Books.
+**[Rituno](https://github.com/MarcoCorreaz/Rituno)** · [demo](https://diurno.vercel.app)
+App de hábitos e rotina para quem estuda e trabalha ao mesmo tempo. Front-end em React com Vite, animações com Framer Motion, Supabase como back-end (auth, banco e storage), assinaturas via Asaas, e-mails transacionais com Resend, monitoramento com Sentry e analytics de produto com PostHog.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+<div>
+<img alt="React" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/React.svg" title="React">
+<img alt="TypeScript" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Typescript.svg" title="TypeScript">
+<img alt="Vite" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Vite.svg" title="Vite">
+<img alt="TailwindCSS" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/TailwindCSS.svg" title="TailwindCSS">
+<img alt="Framer Motion" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Framer%20Motion.svg" title="Framer Motion">
+<img alt="Supabase" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Supabase.svg" title="Supabase">
+</div>
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Asaas](https://img.shields.io/badge/Asaas-0F1729?style=flat-square)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
+
+---
+
+**[BookReads](https://github.com/MarcoCorreaz/bookreads)** · [demo](https://bookreads-gilt.vercel.app)
+Rede social de leitura mobile-first, unindo o formato de check-in do BeReal com a lógica de acompanhamento de leitura do Goodreads. Front-end em Next.js, Supabase para auth/banco/storage/realtime, e um serviço à parte em Spring Boot fazendo proxy da API do Google Books.
+
+<div>
+<img alt="Next.js" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/NextJS.svg" title="Next.js">
+<img alt="React" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/React.svg" title="React">
+<img alt="TypeScript" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Typescript.svg" title="TypeScript">
+<img alt="TailwindCSS" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/TailwindCSS.svg" title="TailwindCSS">
+<img alt="Framer Motion" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Framer%20Motion.svg" title="Framer Motion">
+<img alt="Supabase" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Supabase.svg" title="Supabase">
+<img alt="Spring Boot" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Spring%20Boot.svg" title="Spring Boot">
+<img alt="Stripe" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Stripe.svg" title="Stripe">
+</div>
+
+---
 
 **[ROUME](https://github.com/MarcoCorreaz/Roume)**
 Projeto acadêmico com orientação de professor que ataca a triagem manual de chamados de manutenção em imóveis, automatizando o primeiro atendimento pelo WhatsApp usando IA via n8n.
 
+<div>
+<img alt="WhatsApp API" height="32" width="32" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Whatsapp.svg" title="WhatsApp API">
+</div>
+
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![WhatsApp API](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-
-**[Diurno](https://github.com/MarcoCorreaz/Diurno)**
-App de organização de rotina para quem estuda e trabalha ao mesmo tempo, com sugestões de IA (Gemini) para ajudar a montar o dia. Back-end em Java, front em React/Vite, dados e autenticação no Firebase.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![IA](https://img.shields.io/badge/IA-412991?style=flat-square)
 
 ---
 
