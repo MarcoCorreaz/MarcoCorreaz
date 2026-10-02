@@ -18,7 +18,7 @@ Estagiário de BI na Seplag-MT · Cuiabá, MT 🇧🇷
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Invest, formatura em **dez/2026**
 - 📊 Estagio em **BI na Seplag-MT**, construindo e mantendo dashboards em Power BI que apoiam decisões da gestão pública
 - 🛠️ Construo produtos por conta própria nas horas vagas, do banco de dados à interface
-- 🔎 **Aberto a oportunidades** como dev back-end júnior (CLT), além de BI/Dados e suporte de TI
+- 🔎 **Aberto a oportunidades** como dev back-end júnior, além de BI/Dados
 
 ## 🧰 Stack
 
